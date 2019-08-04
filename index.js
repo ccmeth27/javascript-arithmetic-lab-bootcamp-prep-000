@@ -23,4 +23,4 @@ console.log(divide(5.0, 2.5));
 function inc(n) {
   return (n++);
 }
-console.log(inc(n));
+console.log(inc(5));
