@@ -1,5 +1,5 @@
-function add(a, b){
-  a = 1;
-  b = 80;
+function add(a, b) {
+ var a = 1;
+ var b = 80;
   console.log(a + b);
 }
