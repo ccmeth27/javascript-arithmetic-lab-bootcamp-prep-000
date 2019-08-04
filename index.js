@@ -29,3 +29,14 @@ function dec(n) {
   return (--n);
 }
 console.log(dec(1));
+
+function makeInt(n) {
+  return parseInt(n)
+}
+
+
+
+
+
+
+
