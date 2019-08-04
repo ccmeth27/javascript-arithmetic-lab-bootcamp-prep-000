@@ -33,7 +33,7 @@ console.log(dec(1));
 function makeInt(n) {
   return parseInt(n)
 }
-
+console.log(makeInt("5"))
 
 
 
