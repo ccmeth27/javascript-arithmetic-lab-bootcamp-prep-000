@@ -24,3 +24,8 @@ function inc(n) {
   return (++n);
 }
 console.log(inc(1));
+
+function dec(n) {
+  return (--n);
+}
+console.log(dec(1));
