@@ -35,6 +35,10 @@ function makeInt(n) {
 }
 console.log(makeInt("5"));
 
+function preserveDecimal(n) {
+  return parseFloat(n, 10);
+}
+
 
 
 
