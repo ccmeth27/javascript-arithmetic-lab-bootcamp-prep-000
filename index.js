@@ -1,3 +1,5 @@
 function add(){
-  return (1 + 80);
+  var a = 1;
+  var b = 80;
+  return add(a + b)
 }
