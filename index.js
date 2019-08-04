@@ -21,6 +21,6 @@ function divide(a, b) {
 console.log(divide(5.0, 2.5));
 
 function inc(n) {
-  return (n++);
+  return (a++);
 }
-console.log(inc(411));
+console.log(inc(n));
