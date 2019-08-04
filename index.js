@@ -1,3 +1,3 @@
 function add(a, b){
-  return (1 + 80);
+  console.log(a + b);
 }
